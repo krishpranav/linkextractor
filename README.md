@@ -2,6 +2,7 @@
 this tool will extract all links in a website
 
 Steps to run this tool:
+
       1. git clone https://github.com/krishpranav/linkextractor
       2. cd linkextractor
       3. sudo chmod +x *
